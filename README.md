@@ -1,4 +1,4 @@
-# Ferris Sweep by @zwn.a
+# Sweep Bling by @zwn.a
 
 ## 🌀 Description
 
