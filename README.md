@@ -26,6 +26,7 @@ If you are experiencing firmware compiling error, please check build.yml and wes
 
 - **This depends on the ZMK feature that you are planning to use**  
   Please see here (https://zmk.dev/blog/2025/06/20/pinned-zmk)
+  
   <img width="412" height="339" alt="image" src="https://github.com/user-attachments/assets/5ebe257e-d195-43ba-a9a6-0d13783756be" />
 
   <img width="499" height="250" alt="image" src="https://github.com/user-attachments/assets/fcf589de-c5e8-4347-98e0-52de756a66ad" />
